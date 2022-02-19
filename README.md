@@ -1,2 +1,2 @@
 # Stack
-Understanding and handson stack examples in C#
+Understanding and hands-on stack examples in C#
